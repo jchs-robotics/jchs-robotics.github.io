@@ -12,6 +12,10 @@ ul {
   max-height: 15px;
  
 }
+#poop{
+  height: 15px;
+  width: auto;
+}
 
 li {
   float: left;
