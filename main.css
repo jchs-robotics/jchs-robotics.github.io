@@ -9,14 +9,9 @@ ul {
   position: fixed;
   top: 0;
   width: 100%;
-  p.one {
   border-style: solid;
-  border-width: 5px;
-  border-color:#00FFFF
-}
-;
-}
-
+  border-width: 2px;
+  border-color: #00FFFF;
 }
 
 li {
