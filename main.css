@@ -9,13 +9,13 @@ ul {
   position: fixed;
   top: 0;
   width: 100%;
-  max-height: 50px;
+  max-height: 80px;
  
 }
 #poop{
-  height: 40px;
+  height: 60px;
   width: auto;
-  padding: 5px;
+  padding: 10px;
 }
 }
 
