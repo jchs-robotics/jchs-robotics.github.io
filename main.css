@@ -12,6 +12,7 @@ html, body {
   padding: 0px;
   float: left;
   position: fixed;
+  top: 0px;
 }
 
 #navLogo {
@@ -28,17 +29,18 @@ html, body {
   padding: 0px;
   float: left;
   position: fixed;
+  top: 0px;
 }
 
 #pageList {
   list-style-type: none;
-  margin: 0;
-  padding: 0;
+  margin: 0px;
+  padding: 0px;
   overflow: hidden;
   background-color: #000000;
   position: fixed;
-  top: 0;
-  width: 100%;
+  top: 0px;
+  width: auto;
   height: 70px;
 }
 
@@ -48,7 +50,7 @@ html, body {
 
 .pageButton a {
   display: block;
-  color: white;
+  color: #FFFFFF;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
