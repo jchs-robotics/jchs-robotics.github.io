@@ -13,12 +13,14 @@ html, body {
   float: left;
   position: fixed;
   top: 0px;
+  background-color: #000000;
 }
 
 #navLogo {
   width: auto;
   height: 50px;
-  padding: 10px 0px 10px 20px;
+  padding: 10px 20px 10px 0px;
+  float: right;
 }
 
 #navRight {
@@ -30,16 +32,14 @@ html, body {
   float: left;
   position: fixed;
   top: 0px;
+  background-color: #000000;
 }
 
 #pageList {
   list-style-type: none;
-  margin: 0px;
+  margin: auto;
   padding: 0px;
   overflow: hidden;
-  background-color: #000000;
-  position: fixed;
-  top: 0px;
   width: auto;
   height: 70px;
 }
