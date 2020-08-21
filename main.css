@@ -19,15 +19,16 @@ html, body {
 #navLogo {
   width: auto;
   height: 50px;
-  padding: 10px 20px 10px 0px;
+  margin: 10px 20px 10px 0px;
+  float: right;
 }
 
 #navRight {
   width: 60%;
   height: 70px;
-  margin: 0px;
+  margin: 0% 0% 0% 40%;
   border: 0px;
-  padding: 0% 0% 0% 40%;
+  padding: 0px;
   float: left;
   position: fixed;
   top: 0px;
