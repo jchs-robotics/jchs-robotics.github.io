@@ -9,15 +9,16 @@ ul {
   position: fixed;
   top: 0;
   width: 100%;
-  max-height: 80px;
- 
+  max-height: 70px;
 }
-#poop{
-  height: 60px;
+
+#poop {
+  height: 50px;
   width: auto;
-  padding: 10px;
+  vertical-align: middle;
+  padding-left: 20px;
 }
-}
+
 
 li {
   float: left;
@@ -38,7 +39,3 @@ li a:hover:not(.active) {
 .active {
   background-color: #4CAF50;
 }
-
-
-
-
