@@ -37,6 +37,8 @@ html, body {
 
 #pageList {
   list-style-type: none;
+  margin: 0px;
+  border: none;
   padding: 0px;
   overflow: hidden;
   width: 100%;
@@ -44,7 +46,10 @@ html, body {
 }
 
 .pageButton {
-  margin: auto;  
+  margin: auto; 
+  border: none;
+  padding: 0px;
+  float: left;
 }
 
 .pageButton a {
