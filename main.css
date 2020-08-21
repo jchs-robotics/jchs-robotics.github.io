@@ -21,6 +21,7 @@ html, body {
   height: 50px;
   padding: 10px 20px 10px 0px;
   float: right;
+  z-index: 9000;
 }
 
 #navRight {
