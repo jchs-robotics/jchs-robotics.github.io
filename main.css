@@ -7,7 +7,7 @@ html, body {
 #navLeft {
   width: 40%;
   height: 70px;
-  margin: 0px 10px 0px 0px;
+  margin: 0px;
   border: none;
   padding: 0px;
   float: left;
@@ -24,7 +24,7 @@ html, body {
 #navRight {
   width: 60%;
   height: 70px;
-  margin: 0px 0px 0px 10px;
+  margin: 0px;
   border: 0px;
   padding: 0px;
   float: left;
