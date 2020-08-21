@@ -4,7 +4,7 @@ html, body {
   padding: 0px;
 }
 
-#navLeft
+#navLeft {
   width: 40%;
   height: 70px;
   margin: 0px;
@@ -12,6 +12,7 @@ html, body {
   padding: 0px;
   float: left;
   position: fixed;
+}
 
 #navLogo {
   width: auto;
@@ -19,7 +20,7 @@ html, body {
   padding: 10px 0px 10px 20px;
 }
 
-#navRight
+#navRight {
   width: 60%;
   height: 70px;
   margin: 0px;
@@ -27,6 +28,7 @@ html, body {
   padding: 0px;
   float: left;
   position: fixed;
+}
 
 #pageList {
   list-style-type: none;
