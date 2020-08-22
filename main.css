@@ -14,6 +14,7 @@ html, body {
   position: fixed;
   top: 0px;
   background-color: #000000;
+  color: #FFFFFF;
 }
 
 #navLogo {
@@ -33,23 +34,22 @@ html, body {
   position: fixed;
   top: 0px;
   background-color: #000000;
+  color: #FFFFFF;
 }
 
-#pageList {
-  list-style-type: none;
+.pageList {
   margin: 0px;
   border: none;
+  border-spacing: none;
   padding: 0px;
-  overflow: hidden;
-  width: 100%;
+  width: 80%;
   height: 70px;
 }
 
 .pageButton {
-  margin: auto; 
+  margin: 0px;
   border: none;
   padding: 0px;
-  float: left;
 }
 
 .pageButton a {
