@@ -35,6 +35,7 @@ html, body {
   top: 0px;
   background-color: #000000;
   color: #FFFFFF;
+  text-align: middle;
 }
 
 .pageList {
@@ -50,6 +51,7 @@ html, body {
   margin: 0px;
   border: none;
   padding: 0px;
+  width: 80px;
 }
 
 .pageButton a {
