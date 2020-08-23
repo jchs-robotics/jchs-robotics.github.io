@@ -50,7 +50,6 @@ html, body {
   color: #FF6700;
 }
 
-.navButton: {
-  border-bottom: 2px solid #FF6700;
+.navButton:active {
   color: #FF6700;
 }
