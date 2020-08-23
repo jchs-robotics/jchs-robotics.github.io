@@ -6,5 +6,5 @@ function replacePageHighlight() {
   document.getElementById("inactive").id = "active";
 }
 
-document.getElementByClassName("navButton").onmouseenter="removePageHighlight()"
-document.getElementByClassName("navButton").onmouseleave="replacePageHighlight()"
+document.getElementsByClassName("navButton").onmouseenter="removePageHighlight()"
+document.getElementsByClassName("navButton").onmouseleave="replacePageHighlight()"
