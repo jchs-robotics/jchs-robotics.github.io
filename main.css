@@ -1,6 +1,6 @@
 html, body {
   margin: 0px;
-  border: 0px;
+  border: none;
   padding: 0px;
 }
 
@@ -8,7 +8,7 @@ html, body {
   width: 100%;
   height: 70px;
   margin: 0px;
-  border: 0px;
+  border: none;
   padding: 0px;
   position: fixed;
   top: 0;
@@ -19,6 +19,8 @@ html, body {
 
 #homeButton {
   margin: 10px 15px 10px 25px;
+  border: none;
+  padding: 0px;
   display: inline-block;
   float: left;
 }
@@ -26,6 +28,9 @@ html, body {
 #navLogo {
   width: auto;
   height: 50px;
+  margin: 0px;
+  border: none;
+  padding: 0px;
 }
 
 .navButton {
