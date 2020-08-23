@@ -17,11 +17,15 @@ html, body {
   font-size: 18px;
 }
 
+#homeButton {
+  margin: 10px 15px 10px 25px;
+  display: inline-block;
+  float: left;
+}
+
 #navLogo {
   width: auto;
   height: 50px;
-  margin: 10px 15px 10px 25px;
-  float: left;
 }
 
 .navButton {
@@ -30,7 +34,7 @@ html, body {
   padding: 24px 15px 23px 15px;
   display: inline-block;
   text-decoration: none;
-  color: white;
+  color: #FFFFFF;
   float: left;
 }
 
