@@ -20,17 +20,16 @@ html, body {
 #navLogo {
   width: auto;
   height: 50px;
-  margin: 10px 25px 10px 15px;
+  margin: 10px 15px 10px 25px;
 }
 
 .navButton {
   margin: 0px;
   border: none;
-  padding: 0px 15px 23px 15px;
+  padding: 0px 15px 24px 15px;
   display: inline-block;
   text-decoration: none;
   color: white;
-  position: relative;
 }
 
 .navButton:hover {
