@@ -21,12 +21,13 @@ html, body {
   width: auto;
   height: 50px;
   margin: 10px 15px 10px 25px;
+  float: left;
 }
 
 .navButton {
   margin: 0px;
   border: none;
-  padding: 0px 15px 24px 15px;
+  padding: 25px 15px 22px 15px;
   display: inline-block;
   text-decoration: none;
   color: white;
