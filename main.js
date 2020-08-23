@@ -5,6 +5,3 @@ function removePageHighlight() {
 function replacePageHighlight() {
   document.getElementById("inactive").id = "active";
 }
-
-document.getElementsByClassName("navButton").onmouseenter=removePageHighlight();
-document.getElementsByClassName("navButton").onmouseleave=replacePageHighlight();
