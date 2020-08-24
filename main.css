@@ -17,6 +17,7 @@ html, body {
   overflow: hidden;
   font-size: 12pt;
   font-weight: 500;
+  z-index: 9000;
 }
 
 #homeButton {
